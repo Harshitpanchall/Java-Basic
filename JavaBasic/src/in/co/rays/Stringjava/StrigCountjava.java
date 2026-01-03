@@ -13,9 +13,7 @@ public class StrigCountjava {
 		
 		if(Character.isDigit(ch)) {
 			count++;
-			
 		}
-		
 		
 	}
 	System.out.println(count);

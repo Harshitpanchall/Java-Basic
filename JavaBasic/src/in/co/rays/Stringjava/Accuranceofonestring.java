@@ -25,8 +25,6 @@ public class Accuranceofonestring {
 			
 		}
 	
-	
-
 		/// reverse split///
 			String[] str = name.split(" ");
 			
