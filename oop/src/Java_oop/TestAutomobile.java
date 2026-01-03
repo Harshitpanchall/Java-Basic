@@ -12,6 +12,7 @@ public class TestAutomobile {
 		System.out.println("Color : " + a.getColor());
 		System.out.println("grear : " + a.getGear());
 		System.out.println("Make : " + a.getMake());
+		
 
 	}
 

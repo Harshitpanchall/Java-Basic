@@ -38,10 +38,17 @@ public class Account {
 	
 	public void deposit(double amt) {
 		balance = balance  + amt;
+		System.out.println("total deposit balance : " + balance);
 	
 	}
 
 	public void withdraw(double amt) {
+		if(amt > balance) {
+			System.err.println("insuficient fund in transfer");
+			
+		} else {
+			System.out.println("valid no.");
+		}
 		
 	}
 
