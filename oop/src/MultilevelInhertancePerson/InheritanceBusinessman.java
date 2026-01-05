@@ -2,7 +2,7 @@ package MultilevelInhertancePerson;
 
 public class InheritanceBusinessman extends InheritanceMutliPerson {
 	
-	private double income;
+	protected double income;
 	
 	public double getIncome() {
 		return this.income;

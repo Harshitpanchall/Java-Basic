@@ -40,7 +40,7 @@ public class InteritanceTest extends InheritanceStudent {
 		Date d = new Date();
 		InheritanceMutliPerson ip = new InheritanceMutliPerson();
 		
-		ip.setAddress("Indore Madhya Pradesh");
+		ip.setAddress("Indore Madhya Pradesh		");
 		ip.setName("Harshit Panchal");
 		ip.setDob(d);
 		

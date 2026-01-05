@@ -1,8 +1,8 @@
 package MultilevelInhertancePerson;
 
 public class InheritanceStudent extends InheritanceDoctor {
-	protected String roll;
-	protected int marks;
+	private String roll;
+	private int marks;
 	
 	public String getRollno() {
 		return this.roll;
