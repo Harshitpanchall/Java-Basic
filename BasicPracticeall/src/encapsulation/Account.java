@@ -1,6 +1,6 @@
 package encapsulation;
 
-public class Account {
+public class Account { /// encapsulation is not a extend class and in diffent class ar use 
 	String name;
 	int number;
 	double balance;
