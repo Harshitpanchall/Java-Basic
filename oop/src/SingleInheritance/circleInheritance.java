@@ -14,8 +14,8 @@ public class circleInheritance extends ShapeInheritance {
 
 	}
 	
-	public void name() {
+	
 		
-	}
+	
 
 }

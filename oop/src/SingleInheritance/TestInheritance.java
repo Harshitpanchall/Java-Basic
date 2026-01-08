@@ -12,7 +12,6 @@ public class TestInheritance {
 		
 		System.out.println("border :" + c.getWidth());
 		System.out.println("color :" + c.getColor());
-	
 		System.out.println("radius :" + c.getRadius());
 		
 	}
