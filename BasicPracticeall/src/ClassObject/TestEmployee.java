@@ -5,9 +5,9 @@ public class TestEmployee {
 		
 		Employee e = new Employee();
 		
-		e.setEmpnum(23);
-		e.setEmpbalance(23.34);
-		e.setEmpnumber("123454321432");
+		e.setEmpnum(12);
+		e.setEmpbalance(13);
+		e.setEmpnumber("Harshit");
 		
 		System.out.println("empbalance : " + e.getEmpbalance());
 		System.out.println("empnum : " + e.getEmpnum());

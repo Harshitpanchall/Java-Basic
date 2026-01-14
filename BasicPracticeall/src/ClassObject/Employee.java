@@ -1,9 +1,9 @@
 package ClassObject;
 
 public class Employee {
-	private int empnum = 18;
-	private String empnumber = "12345";
-	private double empbalance = 23.34;
+	private int empnum = 12;
+	private String empnumber = "harshit";
+	private double empbalance = 23.344;
 	
 	/// setter and getter use 
 	
