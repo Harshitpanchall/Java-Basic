@@ -1,7 +1,7 @@
 package StaticKeword;
 
 public class Empolyee {
-	static void study() {
+	public static void study() {
 		System.out.println("helo");
 		
 	}

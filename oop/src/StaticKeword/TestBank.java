@@ -7,7 +7,8 @@ public class TestBank {
 		
 		System.out.println( "Rate : " + b.getRate());
 		System.out.println("Sum  : " + b.getSum());
-		b.name();
+		Bank.name();
+		Bank.nameclass();
 		
 		HdfcBank hb = new HdfcBank();
 		

@@ -11,7 +11,7 @@ public class ExceptioDemo {
 		int divisor = sc.nextInt();
 		try {
 		int result = dividend/divisor;
-		System.out.println("your is divided"+result);
+		System.out.println("your is divided" + result);
 		
 		}catch(Exception e) { /// e is object 
 			System.out.println(e.getMessage());
